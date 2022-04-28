@@ -17,7 +17,6 @@ align-items:center;
 
 .pub div {
   width:500px;
-  height:500px;
   border-radius:20px;
   margin-left:50px;
   flex-shrink: 0;
