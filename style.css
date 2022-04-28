@@ -9,6 +9,19 @@ details {
 width:100;
 
 }
+.pub {
+  display:flex;
+  overflow-x: auto;
+}
+
+.pub div {
+  width:500px;
+  height:600px;
+  border-radius:20px;
+  margin-left:50px;
+  flex-shrink: 0;
+  display:flex;
+}
 details[open] {
 	width:auto;
 }
