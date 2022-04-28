@@ -12,7 +12,7 @@ width:100;
 .ctn {
   display:flex;
   overflow-x: auto;
-width:1230px;
+width:80%;
 }
 
 .ctn div {
