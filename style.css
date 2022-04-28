@@ -12,7 +12,7 @@ width:100;
 .pub {
   display:flex;
   overflow-x: auto;
-align-items:center;
+	
 }
 
 .pub div {
