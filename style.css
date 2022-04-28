@@ -9,13 +9,13 @@ details {
 width:100;
 
 }
-.pub {
+.ctn {
   display:flex;
   overflow-x: auto;
 	
 }
 
-.pub div {
+.ctn div {
   width:500px;
   border-radius:20px;
   margin-left:50px;
