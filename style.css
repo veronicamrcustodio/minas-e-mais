@@ -17,8 +17,6 @@ width:80%;
 
 .ctn div {
   width:500px;
-  border-radius:20px;
-  margin-left:10px;
   flex-shrink: 0;
   display:flex;
 }
