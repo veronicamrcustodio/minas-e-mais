@@ -17,7 +17,7 @@ width:80%;
 
 .ctn div {
   flex-shrink: 0;
-	margin-left:10px;
+	margin-left:15px;
   display:flex;
 }
 details[open] {
